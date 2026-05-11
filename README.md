@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación de escritorio desarrollada en Python utilizando la librería `Tkinter`. Su objetivo es gestionar las reservas de salas de cómputo, alquiler de equipos de laboratorio y asesorías académicas especializadas.
 
-##  Tecnologías Utilizadas
+ Tecnologías Utilizadas
 * **Lenguaje:** Python 3.x
 * **Interfaz Gráfica:** Tkinter (Customized UI)
 * **Persistencia:** Sistema de Logs (logging) y Memoria Volátil.
